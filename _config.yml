@@ -1,4 +1,5 @@
-baseurl: '/'
+url: "https://tiru-kaggundi.github.io"
+baseurl: "/manvari"
 permalink: pretty
 title: 'Manvari Partners'
 
